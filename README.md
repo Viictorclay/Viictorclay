@@ -57,5 +57,13 @@ Me chamo Victorclay, tenho 22 anos, natural de Recife - PE. Atualmente estou cur
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictorclay&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+  
+<img 
+    alingn="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+               
 </p>
