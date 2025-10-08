@@ -17,8 +17,7 @@ Me chamo Victorclay, tenho 22 anos, natural de Recife - PE. Atualmente estou cur
     width="30px"
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-/>
-    
+/>  
 <img 
     align="left" 
     alt="Python" 
@@ -27,7 +26,6 @@ Me chamo Victorclay, tenho 22 anos, natural de Recife - PE. Atualmente estou cur
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="HTML"
@@ -44,7 +42,6 @@ Me chamo Victorclay, tenho 22 anos, natural de Recife - PE. Atualmente estou cur
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     alingn="left"
     alt="Git"
