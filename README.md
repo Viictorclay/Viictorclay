@@ -22,7 +22,7 @@ Me chamo Victorclay, tenho 22 anos, natural de Recife - PE. Atualmente estou cur
 
 ### 📊 Estatísticas
 
-<p>
+<p align='laft'>
 <img 
       align="left" 
       alt="GitHub Stats" 
