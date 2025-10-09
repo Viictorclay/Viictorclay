@@ -19,7 +19,6 @@ Me chamo Victorclay, tenho 22 anos, natural de Recife - PE. Atualmente estou cur
 </p>
      
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
